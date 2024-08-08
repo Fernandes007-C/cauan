@@ -7,4 +7,4 @@ st.title("Olá, Cauan!")
 
 st.header("Turma 2EI-S")
           
-st.header("O melhor aluna da turma é o Cauan Barbosa Fernandes")         
+st.header("O melhor aluno da turma é o Cauan Barbosa Fernandes")         
